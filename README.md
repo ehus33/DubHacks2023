@@ -19,8 +19,11 @@ PorchSentry was built using a combination of TensorFlow and OpenCV for the machi
 4. **Cost-Reduction** Reduces the current cost of door alarm systems like Amazon Blink, Amazon Ring, Google Home Security, and Arlo per camera.
 
 Blink: 110 dollars + 30 dollars per year basic plan
+
 Ring: 180 dollars + 50 dollars per year basic plan
+
 Arlo Home Security: 250 dollars + 60 dollars per year basic plan
+
 Google Home Security: 400 dollars + 100 dollars per year basic plan
 
 ## What we learned
